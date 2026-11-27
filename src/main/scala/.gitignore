@@ -2,13 +2,12 @@
 target/
 project/target/
 project/project/
-.bsp/
+
+# Scala Metals
 .metals/
 .bloop/
+.bsp/
 
 # IDE
 .idea/
 .vscode/
-
-# OS
-.DS_Store
