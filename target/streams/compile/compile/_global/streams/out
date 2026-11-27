@@ -1,0 +1,38 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E088] Syntax Error: C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\src\main\scala\GameLogic.scala:69:8 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m69 |[0m        [33mcase[0m Action.EnterReactor =>[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m        ^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m        Expected start of definition[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E088] Syntax Error: C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\src\main\scala\GameLogic.scala:72:8 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m72 |[0m        [33mcase[0m _ =>[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m        ^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m        Expected start of definition[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\src\main\scala\GameLogic.scala:63:35 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m63 |[0m        [33mcase[0m Action.CollectKeycard =>[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                   ^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                   Found:    Unit[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                   Required: GameState[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\src\main\scala\GameLogic.scala:64:11 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m64 |[0m        [33mif[0m state.room == Room.Laboratory [33mthen[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m           ^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m           Not found: state[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\src\main\scala\GameLogic.scala:65:20 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m65 |[0m            addItem(state, [31m"Keycard"[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                    ^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                    Not found: state[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\src\main\scala\GameLogic.scala:67:12 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m67 |[0m            state[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m            ^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m            Not found: state[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m

@@ -1,14 +1,14 @@
 # Scala / sbt
 target/
 project/target/
-project/project
-.bsp
+project/project/
+.bsp/
 .metals/
 .bloop/
 
-#IDE
+# IDE
 .idea/
 .vscode/
 
-# os
+# OS
 .DS_Store

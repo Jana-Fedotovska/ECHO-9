@@ -1,13 +1,41 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /workspaces/ECHO-9/target/scala-3.3.6/echo-9_3-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\echo-9_3-0.1.0.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$package.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/ECHO-9/target/scala-3.3.6/classes/Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Action$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\Action$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Action$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\Action$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Action.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\Action.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Action.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\Action.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameLogic$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\GameLogic$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameLogic.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\GameLogic.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameLogic.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\GameLogic.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameState$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\GameState$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameState.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\GameState.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameState.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\GameState.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$package$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/ECHO-9/target/scala-3.3.6/classes/Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\Main$package$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$package.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/ECHO-9/target/scala-3.3.6/classes/Main$package.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	runEcho9.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/ECHO-9/target/scala-3.3.6/classes/runEcho9.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Room$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\Room$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Room$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\Room$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Room.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\Room.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Room.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\Room.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	runEcho9.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/ECHO-9/target/scala-3.3.6/classes/runEcho9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\runEcho9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	runEcho9.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lietotajs\Desktop\Jana\Functional programming\ECHO-9\target\scala-3.3.6\classes\runEcho9.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
