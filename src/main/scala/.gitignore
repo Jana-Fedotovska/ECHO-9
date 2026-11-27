@@ -1,0 +1,14 @@
+# Scala / sbt
+target/
+project/target/
+project/project
+.bsp
+.metals/
+.bloop/
+
+#IDE
+.idea/
+.vscode/
+
+# os
+.DS_Store
